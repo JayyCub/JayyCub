@@ -8,6 +8,5 @@ My project and work experience center around web and mobile app development. I e
 ![ParkQueues](https://github.com/JayyCub/ParkQueues-App/blob/main/ReamdeAssets%2FParkQueues_Designs.gif)
 
 ## What I'm currently focusing on learning/improving
-- **C++ / Simulation software** (currently working on a boat docking simulator built from scratch with OpenGL)
-- **C# / .NET**
-- **Embedded software engineering / Robotics**
+- Web and mobile development
+- Automation and CI/CD tooling
