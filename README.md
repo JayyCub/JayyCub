@@ -8,11 +8,11 @@ A hardware-in-the-loop docking simulator built on **NASA's Core Flight System (c
 
 It's a learning project, but every design decision is made to mirror how real rendezvous and proximity operations (RPOD) software works — the kind that flies on SpaceX Dragon, Boeing Starliner, and NASA Orion.
 
-![ISS approach camera — Dragon on approach with RCS plumes](https://raw.githubusercontent.com/JayyCub/cFS_Project/main/Docs/Unity_Scene_img5.png)
+![ISS approach camera — Dragon on approach with RCS plumes](https://media.githubusercontent.com/media/JayyCub/cFS_Project/main/Docs/Unity_Scene_img5.png)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JayyCub/cFS_Project/main/Docs/Utility_UI_Approach_3m.png" width="49%" alt="Utility UI — final approach, 2.91m range" />
-  <img src="https://raw.githubusercontent.com/JayyCub/cFS_Project/main/Docs/Utility_UI_Docked.png" width="49%" alt="Utility UI — DOCKED" />
+  <img src="https://media.githubusercontent.com/media/JayyCub/cFS_Project/main/Docs/Utility_UI_Approach_3m.png" width="49%" alt="Utility UI — final approach, 2.91m range" />
+  <img src="https://media.githubusercontent.com/media/JayyCub/cFS_Project/main/Docs/Utility_UI_Docked.png" width="49%" alt="Utility UI — DOCKED" />
 </p>
 
 **Highlights:**
